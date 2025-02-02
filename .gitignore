@@ -1,0 +1,7 @@
+__pycache__/
+.*
+backend/data/*
+data/food_db/*
+data/food_db_cloud/*
+venv/
+!.gitignore
